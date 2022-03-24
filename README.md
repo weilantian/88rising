@@ -40,7 +40,7 @@ https://drive.google.com/drive/folders/1q7jewuiUdax9_iFp5mjJM6FLrt5VtBV4?usp=sha
 npm install
 ```
 
-### 3. Start the development server 💻
+### 3. Start the development server, and preview locally💻
 
 ```bash
 npm run dev
