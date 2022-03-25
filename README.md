@@ -52,7 +52,7 @@ npm run dev
 npm run build
 ```
 
-Then update the files in the dist folder generated onto the server.
+Then uplpad the files in the dist folder generated onto the server.
 
 ## Overall File structure
 
